@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Claus",
+    "company": "CAA",
+    "email": "caa@comprealugueagora.com",
+    "stage": "novo",
+    "created": "2025-11-03"
+  },
+  {
+    "name": "Claus",
+    "company": "CAA",
+    "email": "OLHAOLANÇA@GMAIL.COM",
+    "stage": "qualificado",
+    "created": "2025-11-03",
+    "score": 52,
+    "type": "qualified"
+  }
+]
